@@ -4,3 +4,6 @@
 [submodule "csharp-example"]
 	path = csharp-example
 	url = https://github.com/VirxEC/csharp-example.git
+[submodule "RLBot-Beast"]
+	path = RLBot-Beast
+	url = https://github.com/NicEastvillage/RLBot-Beast.git
